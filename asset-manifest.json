@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calculadoraFCC/static/css/main.851a7810.css",
+    "main.js": "/calculadoraFCC/static/js/main.ae1af6cd.js",
+    "static/js/787.a0d8d0d4.chunk.js": "/calculadoraFCC/static/js/787.a0d8d0d4.chunk.js",
+    "index.html": "/calculadoraFCC/index.html",
+    "main.851a7810.css.map": "/calculadoraFCC/static/css/main.851a7810.css.map",
+    "main.ae1af6cd.js.map": "/calculadoraFCC/static/js/main.ae1af6cd.js.map",
+    "787.a0d8d0d4.chunk.js.map": "/calculadoraFCC/static/js/787.a0d8d0d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.851a7810.css",
+    "static/js/main.ae1af6cd.js"
+  ]
+}
